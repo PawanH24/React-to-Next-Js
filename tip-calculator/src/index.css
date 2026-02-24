@@ -1,0 +1,15 @@
+.hor {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+.hor select {
+  margin-top: 15px;
+  height: 1rem;
+}
+
+.hor input {
+  margin-top: 15px;
+  height: 1rem;
+}
